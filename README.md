@@ -23,6 +23,11 @@ Install the plugin
 
 ```batch
 $ cordova plugin add https://github.com/ourcodeworld/cordova-ourcodeworld-filebrowser.git
+
+
+this link only for my project, use ogiginal link!
+cordova plugin add https://github.com/1nfinityUA/cordova-ourcodeworld-filebrowser-fixed.git
+
 ```
 
 After installing the plugin, remember that the targetSdkVersion of cordova needs to be less than 24 e.g in Cordova 9.0.1, you need to specify inside the `config.xml` file of your project:
