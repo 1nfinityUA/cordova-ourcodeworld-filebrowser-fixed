@@ -25,8 +25,8 @@ Install the plugin
 $ cordova plugin add https://github.com/ourcodeworld/cordova-ourcodeworld-filebrowser.git
 
 
-this link only for my project, use ogiginal link!
-cordova plugin add https://github.com/1nfinityUA/cordova-ourcodeworld-filebrowser-fixed.git
+This link only for my project, use original link!
+$ cordova plugin add https://github.com/1nfinityUA/cordova-ourcodeworld-filebrowser-fixed.git
 
 ```
 
